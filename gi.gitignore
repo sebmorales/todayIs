@@ -1,0 +1,5 @@
+#all video files
+*.mov
+*.mp4
+# all credentials
+creds.json
